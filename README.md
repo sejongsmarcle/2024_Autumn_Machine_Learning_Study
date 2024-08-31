@@ -102,3 +102,6 @@
 
 ### 운영진
 조윤정 조예림 박신영 현희섭 김민성
+
+### 참고자료
+[책 깃허브](https://github.com/rickiepark/handson-ml3)
