@@ -1,7 +1,7 @@
 # 2024_Autumn_Machine_Learning_Study
 2024 New Senior Track Study, Machine Learning Study
 # 스터디 목표
-- **페어 프로그래밍**을 통한 협업 능력 기르기
+- [페어 프로그래밍](https://erratic-infinity-699.notion.site/888ebbfa2a014a2da1605d65def15dba)을 통한 협업 능력 기르기
 - 3학년 전공필수 수업 **<기계학습>** 미리 공부해보기
 - 개인 블로그 작성하는 습관 들이기
 - Kaggle Study를 하지 않았어도 할 수 있는 스터디
